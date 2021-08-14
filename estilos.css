@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "Indie Flower";
+  src: url("IF.woff2");
+}
+
+:root{
+	--mich: #B9D1D6;
+	--dd
+	--dt
+	--im
+}
+
+#mich{
+	color: #FEFEFE;
+	text-align: center;
+	font-family: andale mono;
+}
+
+#dd{
+	background-color: #F4F9FA;
+	border: black 5px solid;	
+}
+
+#dt{
+	background-color: #96A9AD;
+}
+
+#im{
+	width: 50px;
+	height: 50px;
+	display:block;
+	margin:auto;
+}
+
+body{
+	margin: 0 auto;
+	background-color: #B9D1D6;
+
+}
+
+img{
+	width: 250px;
+	height: 280px;
+	display:block;
+	margin:auto;
+}
+
+h3{
+	font-color: #00000;
+	text-align: center;
+	font-family: Indie Flower;
+
+}
+
+p{
+	div-background-color: #000000; 
+	font-color: #000000;
+	text-align: center;
+	font-family: andale mono;
+	font-size: 20px;
+	border: black 5px dashed;
+	
+}
+
+li{
+	color: #000000;
+	font-family: andale mono;
+	list-style: none;
+}
+
+div{
+	background-color: #96A9AD;
+	border: black 5px solid;
+}
+
+section{
+	display: flex;
+}
+
+article, aside{
+	width: 950px;
+}
+
+ul{
+	list-style: none;
+	border: black 1px dashed;
+	height: 210px;
+}
+
+label {
+    padding-right: 10px;
+    font-size: 1rem;
+}
